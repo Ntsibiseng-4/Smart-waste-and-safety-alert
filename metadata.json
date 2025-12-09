@@ -1,0 +1,8 @@
+{
+  "name": "Smart Waste & Safety Alerts",
+  "description": "AI-powered community monitoring dashboard for waste management and safety alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
